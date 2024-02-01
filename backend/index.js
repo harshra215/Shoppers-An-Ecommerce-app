@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 // Database connection with mongoDB
-mongoose.connect("mongodb+srv://Harsh123:Harsh123@cluster0.davl9x9.mongodb.net/ecommerce")
+mongoose.connect("mongodb+srv://Harsh***:*******@cluster0.davl9x9.mongodb.net/ecommerce")
 
 // API Creation
 
